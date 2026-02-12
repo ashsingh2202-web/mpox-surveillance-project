@@ -1,5 +1,8 @@
 # Mpox Surveillance Project – Florida
 
+## Project Timeline
+Fall 2024 | Florida Department of Health Internship
+
 ## Project Overview
 This project analyzes reported Mpox cases in Florida to identify demographic trends, high-risk populations, and public health disparities. The objective was to support targeted outreach and surveillance planning efforts.
 
